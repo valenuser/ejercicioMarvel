@@ -1,5 +1,7 @@
-<h1>Peliculas Marvel</h1>
 
+
+<h1>Peliculas Marvel</h1>
+<img src='https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg'>
 <h2>Node dependencias:</h2>
 <ul>
   <li>express</li>
