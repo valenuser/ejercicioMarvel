@@ -28,8 +28,9 @@
   <li>Debe haber una tabla en la db con todas las peliculas</li>
 </ul>
 
-
+<br>
+<br>
+<br>
 
 <h1>SUERTE SEÑORES 💻🔥</h1>
-
 <img src='https://lafrikileria.com/blog/wp-content/uploads/2023/02/superheroes-marvel.gif'>
