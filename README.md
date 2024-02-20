@@ -16,7 +16,7 @@
   <li>ejs/pug</li>
 </ul>
 
-
+<img src='https://i.pinimg.com/originals/07/0a/4b/070a4b09f4fac7795aac0ff95c48c687.gif'>
 <h2>Pautas:</h2>
 <h4>Register(nombre (unico),email,password,rol,token)</h4>
 <h4>Login(nombre,password)</h4>
