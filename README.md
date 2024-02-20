@@ -30,6 +30,6 @@
 
 
 
-<h1>SUERTE PUTITAS</h1>
+<h1>SUERTE SEÑORES 💻🔥</h1>
 
 <img src='https://lafrikileria.com/blog/wp-content/uploads/2023/02/superheroes-marvel.gif'>
