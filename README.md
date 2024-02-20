@@ -25,3 +25,6 @@
 <h4>Si el rol es admin: el usuario no puede ver la vista del admin. El admin puede añadir o eliminar una pelicula.</h4>
 <h4>Si el rol es usuario: puede ver todas las peliculas, guardarlas en favoritos y buscar por nombre en un buscador</h4>
 <h4>Debe haber una tabla en la db con todas las peliculas</h4>
+
+
+<img src='https://lafrikileria.com/blog/wp-content/uploads/2023/02/superheroes-marvel.gif'>
