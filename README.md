@@ -27,4 +27,6 @@
 <h4>Debe haber una tabla en la db con todas las peliculas</h4>
 
 
+<h1>SUERTE PUTITAS</h1>
+
 <img src='https://lafrikileria.com/blog/wp-content/uploads/2023/02/superheroes-marvel.gif'>
