@@ -18,13 +18,16 @@
 
 <img src='https://i.pinimg.com/originals/07/0a/4b/070a4b09f4fac7795aac0ff95c48c687.gif'>
 <h2>Pautas:</h2>
-<h4>Register(nombre (unico),email,password,rol,token)</h4>
-<h4>Login(nombre,password)</h4>
-<h4>El usuario tendra vista general donde se vean todas las peliculas y otra donde sea su perfil y se vean todas sus peliculas favoritas</h4>
-<h4>Las peliculas deben tener: titulo,picture</h4>
-<h4>Si el rol es admin: el usuario no puede ver la vista del admin. El admin puede añadir o eliminar una pelicula.</h4>
-<h4>Si el rol es usuario: puede ver todas las peliculas, guardarlas en favoritos y buscar por nombre en un buscador</h4>
-<h4>Debe haber una tabla en la db con todas las peliculas</h4>
+<ul>
+  <li>Register(nombre (unico),email,password,rol,token)</li>
+  <li>Login(nombre,password)</li>
+  <li>El usuario tendra vista general donde se vean todas las peliculas y otra donde sea su perfil y se vean todas sus peliculas favoritas</li>
+  <li>Las peliculas deben tener: titulo,picture</li>
+  <li>Si el rol es admin: el usuario no puede ver la vista del admin. El admin puede añadir o eliminar una pelicula.</li>
+  <li>Si el rol es usuario: puede ver todas las peliculas, guardarlas en favoritos y buscar por nombre en un buscador</li>
+  <li>Debe haber una tabla en la db con todas las peliculas</li>
+</ul>
+
 
 
 <h1>SUERTE PUTITAS</h1>
