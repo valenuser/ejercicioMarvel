@@ -19,7 +19,7 @@
 <img src='https://i.pinimg.com/originals/07/0a/4b/070a4b09f4fac7795aac0ff95c48c687.gif'>
 <h2>Pautas:</h2>
 <ul>
-  <li>Register(nombre (unico,maximo 10 caracteres, minimo 5),email,password,rol,token)</li>
+  <li>Register(nombre (unico,maximo 10 caracteres, minimo 5),email,password(encriptada),rol,token)</li>
   <li>Login(nombre,password)</li>
   <li>El usuario tendra vista general donde se vean todas las peliculas y otra donde sea su perfil y se vean todas sus peliculas favoritas</li>
   <li>Las peliculas deben tener: titulo,picture</li>
